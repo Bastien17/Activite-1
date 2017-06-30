@@ -1,0 +1,17 @@
+h1
+{
+	position: relative;
+	text-align: center;
+	color: #12125B;
+	text-shadow: 5px 5px 8px black;
+	font-size: 50px;
+}
+
+h2
+{
+	position : relative;
+	color: #286058;
+	border: solid;
+	text-align: justify-all;
+	font-size: 30px;
+}
